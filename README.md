@@ -14,4 +14,4 @@ The [codelists](https://github.com/NHLI-Respiratory-Epi/Curation-Harmonisation/b
 
 ## Published papers
 
-Note that the relevant papers will soon be published, with links to be added here when available.
+Hatam S, Scully ST, Cook S, Evans HT, Hume A, Kallis C, Farr I, Orton C, Sheikh A, Quint JK. A Harmonised Approach to Curating Research-Ready Datasets for Asthma, Chronic Obstructive Pulmonary Disease (COPD) and Interstitial Lung Disease (ILD) in England, Wales and Scotland Using Clinical Practice Research Datalink (CPRD), Secure Anonymised Information Linkage (SAIL) Databank and DataLoch. Clin Epidemiol. 2024 Apr 4;16:235-247. doi: 10.2147/CLEP.S437937. PMID: 38595770; PMCID: PMC11002787.
